@@ -10,19 +10,9 @@
 npm install --save key-bidings
 ```
 
-## Usage
+## Example
 
-```tsx
-import * as React from "react";
-
-import MyComponent from "key-bidings";
-
-class Example extends React.Component {
-  render() {
-    return <MyComponent />;
-  }
-}
-```
+[https://codesandbox.io/s/github/g3org3/key-bindings/tree/master/example](https://codesandbox.io/s/github/g3org3/key-bindings/tree/master/example)
 
 ## License
 
